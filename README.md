@@ -1,5 +1,7 @@
 # Coucou 👋
 
+Je m'appelle Célestin et j'apprend le développenment web en autodidacte.
+
 Les projets que j'ai "fini"
 -
 - [Irregular Verb Site](https://github.com/Instelce/Irregular_Verb_Site)
