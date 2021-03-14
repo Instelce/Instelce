@@ -1,4 +1,4 @@
-# Hey 👋
+# Coucou 👋
 
 Les projets que j'ai "fini"
 -
@@ -14,5 +14,7 @@ Les projects que j'ai fait en ce moment
 Stat
 -
 
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Instelce](https://github-readme-stats.vercel.app/api?Instelce=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Instelce=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
