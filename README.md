@@ -13,7 +13,7 @@ Les projects que j'ai fait en ce moment
 
 Stat
 -
-[![Instelce](https://github-readme-stats.vercel.app/api?Instelce=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Instelce=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Instelce](https://github-readme-stats.vercel.app/apiInstelce=anuraghazra)](https://github.com/Instelce)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Instelce=anuraghazra&layout=compact)](https://github.com/Instelce)
 
 
