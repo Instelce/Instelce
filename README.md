@@ -11,3 +11,8 @@ Les projects que j'ai fait en ce moment
 - [Minecraft Block Wiki](https://github.com/Instelce/MinecraftBlockWiki)
 - [Al on the moon Portfolio](https://github.com/Instelce/Al_On_The_Moon_Portfolio)
 
+Stat
+-
+
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
