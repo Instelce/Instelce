@@ -11,9 +11,9 @@ Les projects que j'ai fait en ce moment
 - [Minecraft Block Wiki](https://github.com/Instelce/MinecraftBlockWiki)
 - [Al on the moon Portfolio](https://github.com/Instelce/Al_On_The_Moon_Portfolio)
 
-Stat
+Stats
 -
-[![Les Stats GitHub de Instelce](https://github-readme-stats.vercel.app/api?username=Instelce&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Les Stats GitHub de Instelce](https://github-readme-stats.vercel.app/api?username=Instelce&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Instelce&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 
