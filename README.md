@@ -8,6 +8,7 @@ Les projets que j'ai "fini"
 - [Sondage](https://github.com/Instelce/Sondage)
 - [Portfolio](https://github.com/Instelce/Portfolio)
 - [Python Binary Translator](https://github.com/Instelce/Python_Binary_Translator)
+- [Bicovde App](https://github.com/Instelce/Bicovde_App)
 
 Les projects que je fait en ce moment
 -
