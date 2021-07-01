@@ -1,4 +1,4 @@
-[fr](https://github.com/Instelce#coucou-) [en](https://github.com/Instelce#hi-) [stats](https://github.com/Instelce#stats)
+[[fr]](https://github.com/Instelce#coucou-) [[en]](https://github.com/Instelce#hi-) [[stats]](https://github.com/Instelce#stats)
 
 # Coucou 👋
 
