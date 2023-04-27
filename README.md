@@ -6,7 +6,7 @@
 
 ## ~ i also used a little ...
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,unity,tauri,electron,threejs,androidstudio,flutter,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,unity,tauri,electron,threejs,androidstudio,flutter,lua,react,typescript&perline=9)](https://skillicons.dev)
 
 ## :part_alternation_mark: my stats
 
