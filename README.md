@@ -2,11 +2,11 @@
 
 ## :school_satchel: my skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,js,html,css,sass,svelte,nodejs,heroku,netlify,postgres,sqlite,figma,postman,regex,neovim,vscode&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,js,typescript,react,html,css,sass,svelte,heroku,postgres,sqlite,figma,postman,regex,vscode&perline=9)](https://skillicons.dev)
 
 ## ~ i also used a little ...
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,unity,tauri,electron,threejs,androidstudio,flutter,lua,react,typescript&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,tauri,electron,threejs,androidstudio,flutter&perline=9)](https://skillicons.dev)
 
 ## :part_alternation_mark: my stats
 
