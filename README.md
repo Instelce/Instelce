@@ -2,7 +2,17 @@
 
 ## :school_satchel: my skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,js,typescript,react,html,css,sass,svelte,heroku,postgres,sqlite,figma,postman,regex,vscode&perline=9)](https://skillicons.dev)
+`Front`
+
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,svelte,html,css,sass&perline=9)](https://skillicons.dev)
+
+`Back`
+
+[![My Skills](https://skillicons.dev/icons?i=django,postgres,sqlite&perline=9)](https://skillicons.dev)
+
+## :wrench: software / tools
+
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,vim,figma,postman&perline=9)](https://skillicons.dev)
 
 ## ~ i also used a little ...
 
