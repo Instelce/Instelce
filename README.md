@@ -8,15 +8,15 @@
 
 `Back`
 
-[![My Skills](https://skillicons.dev/icons?i=django,postgres,sqlite&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,php,postgres,sqlite&perline=9)](https://skillicons.dev)
 
 ## :wrench: software / tools
 
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,vim,figma,postman&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,vim,figma,postman,docker&perline=9)](https://skillicons.dev)
 
 ## ~ i also used a little ...
 
-[![My Skills](https://skillicons.dev/icons?i=c,tauri,electron,threejs,androidstudio,flutter&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,tauri,electron,threejs,androidstudio,flutter,kubernetes&perline=9)](https://skillicons.dev)
 
 ## :part_alternation_mark: my stats
 
